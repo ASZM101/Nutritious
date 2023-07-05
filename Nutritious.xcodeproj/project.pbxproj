@@ -27,6 +27,10 @@
 		207A66EB2A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E32A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf */; };
 		207A66EC2A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E42A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf */; };
 		207A66ED2A561D3500C0F146 /* OptimaEL-Roman.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E52A561D3500C0F146 /* OptimaEL-Roman.otf */; };
+		207A66F22A561D4B00C0F146 /* previewLandscapeVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 207A66EE2A561D4A00C0F146 /* previewLandscapeVideo.mp4 */; };
+		207A66F32A561D4B00C0F146 /* nutrigenomicsSquareVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 207A66EF2A561D4A00C0F146 /* nutrigenomicsSquareVideo.mp4 */; };
+		207A66F42A561D4B00C0F146 /* nutrigenomicsLandscapeVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 207A66F02A561D4B00C0F146 /* nutrigenomicsLandscapeVideo.mp4 */; };
+		207A66F52A561D4B00C0F146 /* previewSquareVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 207A66F12A561D4B00C0F146 /* previewSquareVideo.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +55,10 @@
 		207A66E32A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AkzidenzGroteskBQ-Bold.otf"; sourceTree = "<group>"; };
 		207A66E42A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AkzidenzGroteskBQ-Reg.otf"; sourceTree = "<group>"; };
 		207A66E52A561D3500C0F146 /* OptimaEL-Roman.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaEL-Roman.otf"; sourceTree = "<group>"; };
+		207A66EE2A561D4A00C0F146 /* previewLandscapeVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = previewLandscapeVideo.mp4; sourceTree = "<group>"; };
+		207A66EF2A561D4A00C0F146 /* nutrigenomicsSquareVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nutrigenomicsSquareVideo.mp4; sourceTree = "<group>"; };
+		207A66F02A561D4B00C0F146 /* nutrigenomicsLandscapeVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nutrigenomicsLandscapeVideo.mp4; sourceTree = "<group>"; };
+		207A66F12A561D4B00C0F146 /* previewSquareVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = previewSquareVideo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +109,10 @@
 				207A66E22A561D3500C0F146 /* OptimaDisplay-UltraLight.otf */,
 				207A66E52A561D3500C0F146 /* OptimaEL-Roman.otf */,
 				207A66DF2A561D3500C0F146 /* OptimaEL-Text.otf */,
+				207A66F02A561D4B00C0F146 /* nutrigenomicsLandscapeVideo.mp4 */,
+				207A66EF2A561D4A00C0F146 /* nutrigenomicsSquareVideo.mp4 */,
+				207A66EE2A561D4A00C0F146 /* previewLandscapeVideo.mp4 */,
+				207A66F12A561D4B00C0F146 /* previewSquareVideo.mp4 */,
 				207A66B72A55E88100C0F146 /* Assets.xcassets */,
 				207A66B92A55E88100C0F146 /* Preview Content */,
 			);
@@ -174,9 +186,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				207A66BB2A55E88100C0F146 /* Preview Assets.xcassets in Resources */,
+				207A66F22A561D4B00C0F146 /* previewLandscapeVideo.mp4 in Resources */,
+				207A66F32A561D4B00C0F146 /* nutrigenomicsSquareVideo.mp4 in Resources */,
+				207A66F52A561D4B00C0F146 /* previewSquareVideo.mp4 in Resources */,
 				207A66EB2A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf in Resources */,
 				207A66E72A561D3500C0F146 /* OptimaEL-Text.otf in Resources */,
 				207A66E82A561D3500C0F146 /* OptimaDisplay-Roman.otf in Resources */,
+				207A66F42A561D4B00C0F146 /* nutrigenomicsLandscapeVideo.mp4 in Resources */,
 				207A66EA2A561D3500C0F146 /* OptimaDisplay-UltraLight.otf in Resources */,
 				207A66E92A561D3500C0F146 /* OptimaDisplay-Light.otf in Resources */,
 				207A66ED2A561D3500C0F146 /* OptimaEL-Roman.otf in Resources */,
