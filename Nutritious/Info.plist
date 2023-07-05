@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AkzidenzGroteskBQ-Bold.otf</string>
+		<string>AkzidenzGroteskBQ-Reg.otf</string>
+		<string>OptimaDisplay-Book.otf</string>
+		<string>OptimaDisplay-Light.otf</string>
+		<string>OptimaDisplay-Roman.otf</string>
+		<string>OptimaDisplay-UltraLight.otf</string>
+		<string>OptimaEL-Text.otf</string>
+		<string>OptimaEL-Roman.otf</string>
+	</array>
+</dict>
+</plist>

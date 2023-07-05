@@ -59,6 +59,7 @@
 		207A66EF2A561D4A00C0F146 /* nutrigenomicsSquareVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nutrigenomicsSquareVideo.mp4; sourceTree = "<group>"; };
 		207A66F02A561D4B00C0F146 /* nutrigenomicsLandscapeVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nutrigenomicsLandscapeVideo.mp4; sourceTree = "<group>"; };
 		207A66F12A561D4B00C0F146 /* previewSquareVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = previewSquareVideo.mp4; sourceTree = "<group>"; };
+		207A66F62A561E0D00C0F146 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 		207A66B22A55E88000C0F146 /* Nutritious */ = {
 			isa = PBXGroup;
 			children = (
+				207A66F62A561E0D00C0F146 /* Info.plist */,
 				207A66B32A55E88000C0F146 /* NutritiousApp.swift */,
 				207A66CC2A561CA000C0F146 /* TabBar.swift */,
 				207A66CE2A561CEC00C0F146 /* Home.swift */,
@@ -350,6 +352,7 @@
 				DEVELOPMENT_TEAM = 4FT38P4D49;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Nutritious/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -379,6 +382,7 @@
 				DEVELOPMENT_TEAM = 4FT38P4D49;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Nutritious/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
