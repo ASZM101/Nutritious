@@ -19,6 +19,14 @@
 		207A66D92A561D0900C0F146 /* CremeMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66D82A561D0800C0F146 /* CremeMask.swift */; };
 		207A66DB2A561D0D00C0F146 /* FoamCleanser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66DA2A561D0D00C0F146 /* FoamCleanser.swift */; };
 		207A66DD2A561D1500C0F146 /* RadiantLotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66DC2A561D1500C0F146 /* RadiantLotion.swift */; };
+		207A66E62A561D3500C0F146 /* OptimaDisplay-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66DE2A561D3500C0F146 /* OptimaDisplay-Book.otf */; };
+		207A66E72A561D3500C0F146 /* OptimaEL-Text.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66DF2A561D3500C0F146 /* OptimaEL-Text.otf */; };
+		207A66E82A561D3500C0F146 /* OptimaDisplay-Roman.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E02A561D3500C0F146 /* OptimaDisplay-Roman.otf */; };
+		207A66E92A561D3500C0F146 /* OptimaDisplay-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E12A561D3500C0F146 /* OptimaDisplay-Light.otf */; };
+		207A66EA2A561D3500C0F146 /* OptimaDisplay-UltraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E22A561D3500C0F146 /* OptimaDisplay-UltraLight.otf */; };
+		207A66EB2A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E32A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf */; };
+		207A66EC2A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E42A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf */; };
+		207A66ED2A561D3500C0F146 /* OptimaEL-Roman.otf in Resources */ = {isa = PBXBuildFile; fileRef = 207A66E52A561D3500C0F146 /* OptimaEL-Roman.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +43,14 @@
 		207A66D82A561D0800C0F146 /* CremeMask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CremeMask.swift; sourceTree = "<group>"; };
 		207A66DA2A561D0D00C0F146 /* FoamCleanser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoamCleanser.swift; sourceTree = "<group>"; };
 		207A66DC2A561D1500C0F146 /* RadiantLotion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RadiantLotion.swift; sourceTree = "<group>"; };
+		207A66DE2A561D3500C0F146 /* OptimaDisplay-Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaDisplay-Book.otf"; sourceTree = "<group>"; };
+		207A66DF2A561D3500C0F146 /* OptimaEL-Text.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaEL-Text.otf"; sourceTree = "<group>"; };
+		207A66E02A561D3500C0F146 /* OptimaDisplay-Roman.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaDisplay-Roman.otf"; sourceTree = "<group>"; };
+		207A66E12A561D3500C0F146 /* OptimaDisplay-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaDisplay-Light.otf"; sourceTree = "<group>"; };
+		207A66E22A561D3500C0F146 /* OptimaDisplay-UltraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaDisplay-UltraLight.otf"; sourceTree = "<group>"; };
+		207A66E32A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AkzidenzGroteskBQ-Bold.otf"; sourceTree = "<group>"; };
+		207A66E42A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AkzidenzGroteskBQ-Reg.otf"; sourceTree = "<group>"; };
+		207A66E52A561D3500C0F146 /* OptimaEL-Roman.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaEL-Roman.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +93,14 @@
 				207A66D82A561D0800C0F146 /* CremeMask.swift */,
 				207A66DA2A561D0D00C0F146 /* FoamCleanser.swift */,
 				207A66DC2A561D1500C0F146 /* RadiantLotion.swift */,
+				207A66E32A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf */,
+				207A66E42A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf */,
+				207A66DE2A561D3500C0F146 /* OptimaDisplay-Book.otf */,
+				207A66E12A561D3500C0F146 /* OptimaDisplay-Light.otf */,
+				207A66E02A561D3500C0F146 /* OptimaDisplay-Roman.otf */,
+				207A66E22A561D3500C0F146 /* OptimaDisplay-UltraLight.otf */,
+				207A66E52A561D3500C0F146 /* OptimaEL-Roman.otf */,
+				207A66DF2A561D3500C0F146 /* OptimaEL-Text.otf */,
 				207A66B72A55E88100C0F146 /* Assets.xcassets */,
 				207A66B92A55E88100C0F146 /* Preview Content */,
 			);
@@ -150,7 +174,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				207A66BB2A55E88100C0F146 /* Preview Assets.xcassets in Resources */,
+				207A66EB2A561D3500C0F146 /* AkzidenzGroteskBQ-Bold.otf in Resources */,
+				207A66E72A561D3500C0F146 /* OptimaEL-Text.otf in Resources */,
+				207A66E82A561D3500C0F146 /* OptimaDisplay-Roman.otf in Resources */,
+				207A66EA2A561D3500C0F146 /* OptimaDisplay-UltraLight.otf in Resources */,
+				207A66E92A561D3500C0F146 /* OptimaDisplay-Light.otf in Resources */,
+				207A66ED2A561D3500C0F146 /* OptimaEL-Roman.otf in Resources */,
 				207A66B82A55E88100C0F146 /* Assets.xcassets in Resources */,
+				207A66EC2A561D3500C0F146 /* AkzidenzGroteskBQ-Reg.otf in Resources */,
+				207A66E62A561D3500C0F146 /* OptimaDisplay-Book.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
