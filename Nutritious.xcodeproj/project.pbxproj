@@ -11,6 +11,14 @@
 		207A66B82A55E88100C0F146 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 207A66B72A55E88100C0F146 /* Assets.xcassets */; };
 		207A66BB2A55E88100C0F146 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 207A66BA2A55E88100C0F146 /* Preview Assets.xcassets */; };
 		207A66CD2A561CA000C0F146 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66CC2A561CA000C0F146 /* TabBar.swift */; };
+		207A66CF2A561CEC00C0F146 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66CE2A561CEC00C0F146 /* Home.swift */; };
+		207A66D12A561CF300C0F146 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66D02A561CF300C0F146 /* Profile.swift */; };
+		207A66D32A561CF800C0F146 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66D22A561CF800C0F146 /* Search.swift */; };
+		207A66D52A561CFE00C0F146 /* AiryLotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66D42A561CFE00C0F146 /* AiryLotion.swift */; };
+		207A66D72A561D0300C0F146 /* AiryLotionOld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66D62A561D0300C0F146 /* AiryLotionOld.swift */; };
+		207A66D92A561D0900C0F146 /* CremeMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66D82A561D0800C0F146 /* CremeMask.swift */; };
+		207A66DB2A561D0D00C0F146 /* FoamCleanser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66DA2A561D0D00C0F146 /* FoamCleanser.swift */; };
+		207A66DD2A561D1500C0F146 /* RadiantLotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66DC2A561D1500C0F146 /* RadiantLotion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,14 @@
 		207A66B72A55E88100C0F146 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		207A66BA2A55E88100C0F146 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		207A66CC2A561CA000C0F146 /* TabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		207A66CE2A561CEC00C0F146 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		207A66D02A561CF300C0F146 /* Profile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		207A66D22A561CF800C0F146 /* Search.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
+		207A66D42A561CFE00C0F146 /* AiryLotion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AiryLotion.swift; sourceTree = "<group>"; };
+		207A66D62A561D0300C0F146 /* AiryLotionOld.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AiryLotionOld.swift; sourceTree = "<group>"; };
+		207A66D82A561D0800C0F146 /* CremeMask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CremeMask.swift; sourceTree = "<group>"; };
+		207A66DA2A561D0D00C0F146 /* FoamCleanser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoamCleanser.swift; sourceTree = "<group>"; };
+		207A66DC2A561D1500C0F146 /* RadiantLotion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RadiantLotion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +69,14 @@
 			children = (
 				207A66B32A55E88000C0F146 /* NutritiousApp.swift */,
 				207A66CC2A561CA000C0F146 /* TabBar.swift */,
+				207A66CE2A561CEC00C0F146 /* Home.swift */,
+				207A66D02A561CF300C0F146 /* Profile.swift */,
+				207A66D22A561CF800C0F146 /* Search.swift */,
+				207A66D42A561CFE00C0F146 /* AiryLotion.swift */,
+				207A66D62A561D0300C0F146 /* AiryLotionOld.swift */,
+				207A66D82A561D0800C0F146 /* CremeMask.swift */,
+				207A66DA2A561D0D00C0F146 /* FoamCleanser.swift */,
+				207A66DC2A561D1500C0F146 /* RadiantLotion.swift */,
 				207A66B72A55E88100C0F146 /* Assets.xcassets */,
 				207A66B92A55E88100C0F146 /* Preview Content */,
 			);
@@ -137,7 +161,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				207A66DB2A561D0D00C0F146 /* FoamCleanser.swift in Sources */,
 				207A66CD2A561CA000C0F146 /* TabBar.swift in Sources */,
+				207A66D12A561CF300C0F146 /* Profile.swift in Sources */,
+				207A66D92A561D0900C0F146 /* CremeMask.swift in Sources */,
+				207A66D32A561CF800C0F146 /* Search.swift in Sources */,
+				207A66D52A561CFE00C0F146 /* AiryLotion.swift in Sources */,
+				207A66CF2A561CEC00C0F146 /* Home.swift in Sources */,
+				207A66D72A561D0300C0F146 /* AiryLotionOld.swift in Sources */,
+				207A66DD2A561D1500C0F146 /* RadiantLotion.swift in Sources */,
 				207A66B42A55E88000C0F146 /* NutritiousApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
