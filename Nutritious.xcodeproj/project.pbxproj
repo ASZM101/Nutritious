@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		207A66B42A55E88000C0F146 /* NutritiousApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66B32A55E88000C0F146 /* NutritiousApp.swift */; };
-		207A66B62A55E88000C0F146 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66B52A55E88000C0F146 /* ContentView.swift */; };
 		207A66B82A55E88100C0F146 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 207A66B72A55E88100C0F146 /* Assets.xcassets */; };
 		207A66BB2A55E88100C0F146 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 207A66BA2A55E88100C0F146 /* Preview Assets.xcassets */; };
+		207A66CD2A561CA000C0F146 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207A66CC2A561CA000C0F146 /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		207A66B02A55E88000C0F146 /* Nutritious.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nutritious.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		207A66B32A55E88000C0F146 /* NutritiousApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NutritiousApp.swift; sourceTree = "<group>"; };
-		207A66B52A55E88000C0F146 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		207A66B72A55E88100C0F146 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		207A66BA2A55E88100C0F146 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		207A66CC2A561CA000C0F146 /* TabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				207A66B32A55E88000C0F146 /* NutritiousApp.swift */,
-				207A66B52A55E88000C0F146 /* ContentView.swift */,
+				207A66CC2A561CA000C0F146 /* TabBar.swift */,
 				207A66B72A55E88100C0F146 /* Assets.xcassets */,
 				207A66B92A55E88100C0F146 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				207A66B62A55E88000C0F146 /* ContentView.swift in Sources */,
+				207A66CD2A561CA000C0F146 /* TabBar.swift in Sources */,
 				207A66B42A55E88000C0F146 /* NutritiousApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
